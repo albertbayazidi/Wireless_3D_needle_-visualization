@@ -1,7 +1,7 @@
 # AccuNeedle
 AccuNeedle is a software and hardware solution that uses a gyroscope and accelerometer to provide real-time 3D visualization of a needle during medical procedures. The tool is designed to aid in finding the needle during an ultrasound operation.
 
-The tool uses ESP NOW protocol and is powered by C++ and Java. It wirelessly connects to another esp32 that is connected to a computer using serial for real-time visualization and feedback.
+The tool uses ESP NOW protocol and is powered by C++ and Processing. It wirelessly connects to another esp32 that is connected to a computer using serial for real-time visualization and feedback.
 
 ## Features
 Real-time rendering of needle in 3D.
