@@ -17,9 +17,9 @@ To use the tool the following components are required.
 1.	Connecting everything according to the diagrams.
 2.	Calibrate both devices using the calibration code.
 3.	Get MAC address of receiver.
-4.	Upload received code to receiver and sender to sender. 
+4.	Upload receiver code to receiver and sender to sender. 
 
 Remember to install necessary libraries.
 
-The project was developed by Albert bayazidi and Saim Naveed Iqbal 
+The project was developed by Albert Bayazidi and Saim Naveed Iqbal 
 
