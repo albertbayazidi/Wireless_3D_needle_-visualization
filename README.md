@@ -10,7 +10,7 @@ Calibration
 
 To use the tool the following components are required. 
 -	2 ESP32
--	2 MPU6050 
+-	2 MPU6050 from adafruit
 -	Wires and breadboard 
 
 ## Usage
