@@ -13,6 +13,15 @@ To use the tool the following components are required.
 -	2 MPU6050 from adafruit
 -	Wires and breadboard 
 
+## Demo
+
+
+
+https://github.com/albertbayazidi/AccuNeedle/assets/102351774/65a52dd0-e59a-4bb8-9645-4e8064af6613
+
+
+
+
 ## Usage
 1.	Connecting everything according to the diagrams.
 2.	Calibrate both devices using the calibration code.
