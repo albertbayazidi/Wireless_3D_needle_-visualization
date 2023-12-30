@@ -24,7 +24,7 @@ https://github.com/albertbayazidi/AccuNeedle/assets/102351774/65a52dd0-e59a-4bb8
 
 ## Usage
 1.	Connecting everything according to the diagrams.
-2.	Calibrate both devices using the calibration code.
+2.	Calibrate the device using the calibration code.
 3.	Get MAC address of receiver.
 4.	Upload receiver code to receiver and sender to sender. 
 
